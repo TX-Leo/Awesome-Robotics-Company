@@ -1,47 +1,5 @@
 # Awesome-Robotics-Company
 
-## 目录
-
-- [Awesome-Robotics-Company](#awesome-robotics-company)
-  - [目录](#目录)
-- [US](#us)
-  - [2026 Artificial Intelligence Internship \& New Grad Positions](#2026-artificial-intelligence-internship--new-grad-positions)
-  - [Tier1](#tier1)
-      - [Amazon FAR (former Covariant)](#amazon-far-former-covariant)
-      - [Meta Reality Labs](#meta-reality-labs)
-      - [Meta FAIR](#meta-fair)
-      - [NVidia SRL/GEAR](#nvidia-srlgear)
-      - [TRI](#tri)
-      - [Google DM](#google-dm)
-      - [RAI (former BDAI)](#rai-former-bdai)
-      - [Tesla Optimus](#tesla-optimus)
-      - [Boston Dynamics](#boston-dynamics)
-  - [Tier2](#tier2)
-      - [Samsung](#samsung)
-      - [Ai2](#ai2)
-      - [Waymo](#waymo)
-      - [Honda research institute](#honda-research-institute)
-  - [Else](#else)
-      - [NASA Robotics](#nasa-robotics)
-      - [Autodesk](#autodesk)
-      - [MERL](#merl)
-      - [Apple](#apple)
-  - [Startups](#startups)
-      - [Physical Intelligence⭐️](#physical-intelligence️)
-      - [Figure AI⭐️](#figure-ai️)
-      - [Dyna Robotics⭐️](#dyna-robotics️)
-      - [Dexmate⭐️](#dexmate️)
-      - [Genesis](#genesis)
-      - [Skild AI](#skild-ai)
-      - [1X](#1x)
-      - [Tau Robotics](#tau-robotics)
-      - [Agility Robotics](#agility-robotics)
-      - [Clone](#clone)
-      - [Apptronik](#apptronik)
-      - [Covariant (Currently Amazon FAR)](#covariant-currently-amazon-far)
-- [China](#china)
-
-
 # US
 
 ## 2026 Artificial Intelligence Internship & New Grad Positions
@@ -178,14 +136,15 @@ Stealth Startup (Cheng Chi\@Stanford, Tony)
 
 # China
 
-- Hangzhou
+### Hangzhou
   - 宇树科技Unitree⭐️⭐️
   - 云深处科技Deep Robotics⭐️
   - 西湖机器人
   - 浙江人形机器人
   - 迦智科技
   - 有鹿机器人
-- Shenzhen
+  
+### Shenzhen
   - 自变量机器人X Square⭐️⭐️
   - 舞肌科技WUJI⭐️⭐️
   - 优必选
@@ -212,7 +171,7 @@ Stealth Startup (Cheng Chi\@Stanford, Tony)
   - 数字华夏
   - Light Robotics
   - 留形科技⭐️
-- Shanghai
+### Shanghai
   - 大裂谷智能Sharpa Robotics⭐️⭐️
   - Dyna Robotics (Hardware Team)⭐️⭐️
   - 傅立叶机器人Fourier
@@ -222,7 +181,7 @@ Stealth Startup (Cheng Chi\@Stanford, Tony)
   - 穹彻智能⭐️
   - 非夕科技⭐️⭐️
   - 奥鲨智能⭐️
-- Beijing
+### Beijing
   - 加速进化⭐️
   - 星动纪元
   - 千寻智能
@@ -246,20 +205,20 @@ Stealth Startup (Cheng Chi\@Stanford, Tony)
   - 伟景智能
   - 钢铁侠科技
   - 享刻智能⭐️
-- Wuxi
+### Wuxi
   - 魔法原子
-- Suzhou
+### Suzhou
   - 一星机器人
   - 星海图⭐️
-- Hong Kong
+### Hong Kong
   - Rice Robotics
-- Guangzhou
+### Guangzhou
   - 雅可比机器人
-- Dongguan
+### Dongguan
   - 本末科技
-- Foshan
+### Foshan
   - 碧桂园
-- 大厂
+### 大厂
   - 小米
   - 华为
   - 腾讯Robotics X
