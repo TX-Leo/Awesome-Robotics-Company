@@ -1,5 +1,7 @@
 # Awesome-Robotics-Company
 
+Update: 11/24/2025
+
 # US
 
 ## 2026 Artificial Intelligence Internship & New Grad Positions
@@ -28,6 +30,8 @@
   - [https://www.metacareers.com/jobs/1503210474022285](https://www.metacareers.com/jobs/1503210474022285 "https://www.metacareers.com/jobs/1503210474022285")
 
 #### Meta FAIR
+
+> 📌Meta has recently laid off its entire robotics department of FAIR. Crazy!
 
 - Location: NYC, Paris, Bay Area
 - Research Scientist Intern, FAIR - Embodied AI (PhD)
@@ -92,13 +96,15 @@
 
 ## Startups
 
-#### Physical Intelligence⭐️
-
 #### Figure AI⭐️
 
 - Integration and Test - Mechanical Engineering Intern \[Winter 2026]
   - [https://job-boards.greenhouse.io/figureai/jobs/4606074006](https://job-boards.greenhouse.io/figureai/jobs/4606074006 "https://job-boards.greenhouse.io/figureai/jobs/4606074006")
   - Paul Harding on LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7379642547511627778/](https://www.linkedin.com/feed/update/urn:li:activity:7379642547511627778/ "https://www.linkedin.com/feed/update/urn:li:activity:7379642547511627778/")
+
+#### Covariant (Currently Amazon FAR)⭐️
+
+#### Physical Intelligence⭐️
 
 #### Dyna Robotics⭐️
 
@@ -108,11 +114,26 @@
 
 - Location: Santa Clara
 
+#### Daxo Robotics⭐️
+
+- Location: Austin and Bay Area
+- Founder: **Jiahao Zhang** (Nice guy!)
+
+#### Sunday Robotics⭐️
+
+- Location: Bay Area
+- Founders: Tony Zhao, Cheng Chi
+
+#### Generalist⭐️
+
+- Location: Bay Area
+
 #### Genesis
 
 #### Skild AI
 
 - Location: Pittsburg, Bay Area
+- Founders: Deepak
 
 #### 1X
 
@@ -128,103 +149,154 @@
 
 #### Apptronik
 
-#### Covariant (Currently Amazon FAR)
+#### K-Scale Labs: shut down (Bay Area)
 
-Stealth Startup (Cheng Chi\@Stanford, Tony)
+#### Weave Robotics
+
+- 创始团队之前是苹果的，YC2024年的项目，商业化进展好像挺快的
+
+#### Hello Robotics
+
+#### SCENIX
+
+- Location: NYC
+- Founders: Yunzhu Li
+
+#### Tangible Robots
+
+#### Flexion Robotics
+
+- Location：Zurich
+
+#### Matic Robots
+
+- Location：Mountain View
+
+#### Open Droids
+
+- Location：SF
+
+#### AmbiRobotics
+
+- Location：Berkeley
 
 ***
 
 # China
 
-### Hangzhou
-  - 宇树科技Unitree⭐️⭐️
-  - 云深处科技Deep Robotics⭐️
-  - 西湖机器人
-  - 浙江人形机器人
-  - 迦智科技
-  - 有鹿机器人
-  
-### Shenzhen
-  - 自变量机器人X Square⭐️⭐️
-  - 舞肌科技WUJI⭐️⭐️
-  - 优必选
-  - 众擎机器人⭐️
-  - 乐聚机器人
-  - 智平方科技
-  - 大象机器人
-  - 逐际动力
-  - 越疆科技
-  - 星尘智能⭐️
-  - 帕西尼感知科技
-  - 戴盟机器人
-  - 鹿明机器人
-  - 大族机器人⭐️
-  - 枢途科技
-  - 乐享科技⭐️
-  - 松灵机器人
-  - 越疆机器人
-  - 高擎机电
-  - 星际光年⭐️
-  - 妙动科技⭐️
-  - 库犸科技MAMMOTION⭐️
-  - 跨维智能
-  - 数字华夏
-  - Light Robotics
-  - 留形科技⭐️
-### Shanghai
-  - 大裂谷智能Sharpa Robotics⭐️⭐️
-  - Dyna Robotics (Hardware Team)⭐️⭐️
-  - 傅立叶机器人Fourier
-  - 智元机器人AgiBot
-  - 开普勒机器人
-  - 它石智航
-  - 穹彻智能⭐️
-  - 非夕科技⭐️⭐️
-  - 奥鲨智能⭐️
-### Beijing
-  - 加速进化⭐️
-  - 星动纪元
-  - 千寻智能
-  - 银河通用Gallbot
-  - 橡木果机器人⭐️
-  - 松延动力⭐️
-  - 北京人形机器人
-  - 动易科技
-  - 方舟无限⭐️⭐️
-  - 睿尔曼机器人
-  - 首形科技⭐️
-  - 智在无界BeingBeyond
-  - 梅卡曼德机器人⭐️
-  - 灵心巧手
-  - 启物科技&#x20;
+## Hangzhou
 
-  - 莫测智能
-  - 千诀科技
-  - 因时机器人
-  - 九号
-  - 伟景智能
-  - 钢铁侠科技
-  - 享刻智能⭐️
-### Wuxi
-  - 魔法原子
-### Suzhou
-  - 一星机器人
-  - 星海图⭐️
-### Hong Kong
-  - Rice Robotics
-### Guangzhou
-  - 雅可比机器人
-### Dongguan
-  - 本末科技
-### Foshan
-  - 碧桂园
-### 大厂
-  - 小米
-  - 华为
-  - 腾讯Robotics X
-  - 字节Seed Robotics⭐️
-  - Vivo
-  - 小鹏XPENG⭐️
-  - &#x20;阿里巴巴
-  - 美团
+- 宇树科技Unitree⭐️⭐️
+- 云深处科技Deep Robotics⭐️
+- 西湖机器人
+- 浙江人形机器人
+- 迦智科技
+- 有鹿机器人
+
+## Shenzhen
+
+- 自变量机器人X Square⭐️⭐️
+- 舞肌科技WUJI⭐️⭐️
+- 优必选
+- 众擎机器人⭐️
+- 乐聚机器人
+- 智平方科技
+- 大象机器人
+- 逐际动力
+- 越疆科技
+- 星尘智能⭐️
+- 帕西尼感知科技
+- 戴盟机器人
+- 鹿明机器人
+- 大族机器人⭐️
+- 枢途科技
+- 乐享科技⭐️
+- 松灵机器人
+- 越疆机器人
+- 高擎机电
+- 星际光年⭐️
+- 妙动科技⭐️
+- 库犸科技MAMMOTION⭐️
+- 跨维智能
+- 数字华夏
+- Light Robotics
+- 留形科技⭐️
+
+## Shanghai
+
+- 大裂谷智能Sharpa Robotics⭐️⭐️
+- Dyna Robotics (Hardware Team)⭐️⭐️
+- 傅立叶机器人Fourier
+- 智元机器人AgiBot
+- 开普勒机器人
+- 它石智航
+- 穹彻智能⭐️
+- 非夕科技⭐️⭐️
+- 奥鲨智能⭐️
+
+## Beijing
+
+- 加速进化⭐️
+- 星动纪元
+- 千寻智能
+- 银河通用Gallbot
+- 橡木果机器人⭐️
+- 松延动力⭐️
+- 北京人形机器人
+- 动易科技
+- 方舟无限⭐️⭐️
+- 睿尔曼机器人
+- 首形科技⭐️
+- 智在无界BeingBeyond
+- 梅卡曼德机器人⭐️
+- 灵心巧手
+- 启物科技&#x20;
+
+- 莫测智能
+- 千诀科技
+- 因时机器人
+- 九号
+- 伟景智能
+- 钢铁侠科技
+- 享刻智能⭐️
+
+## Wuxi
+
+- 魔法原子
+
+## Suzhou
+
+- 一星机器人😵: Shut Down
+- 星海图⭐️
+
+## Hong Kong
+
+- Rice Robotics
+
+## Guangzhou
+
+- 雅可比机器人
+
+## Dongguan
+
+- 本末科技
+
+## Foshan
+
+- 碧桂园
+
+## 大厂
+
+- 小米
+- 华为
+- 腾讯Robotics X
+- 字节Seed Robotics⭐️
+- Vivo
+- 小鹏XPENG⭐️
+- &#x20;阿里巴巴
+- 美团
+
+
+
+
 
